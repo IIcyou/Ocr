@@ -1,0 +1,16 @@
+datasets/
+models/
+__pycache__/
+out/
+build/
+dist/
+tests/
+train_logs/
+imgs/
+.idea/
+*.h5
+*.tflite
+*.spec
+ocr_config
+*.DS_Store
+test.py
